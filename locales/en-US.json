@@ -1,7 +1,7 @@
 {
     "header": "simpleui test project for github connector",
-    "submitButton": "Submit",
-    "cancelButton": "Cancel",
+    "submitButton": "Submit button",
+    "cancelButton": "Cancel button",
     "welcomeText": "Please select an option from the buttons above.",
     "test2025": "test new things oops fixed it"
 }
