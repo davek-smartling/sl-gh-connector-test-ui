@@ -1,6 +1,7 @@
 {
   "header" : "SimpleUI-Testprojekt für GitHub-Konnektor",
-  "submitButton" : "Senden",
-  "cancelButton" : "Abbrechen",
-  "welcomeText" : "Bitte wählen Sie eine Option aus den Schaltflächen oben aus."
+  "submitButton" : "Schaltfläche \"Senden\"",
+  "cancelButton" : "Schaltfläche \"Abbrechen\"",
+  "welcomeText" : "Bitte wählen Sie eine Option aus den Schaltflächen oben aus.",
+  "test2025" : "Testen Sie neue Dinge, ups, behoben"
 }
