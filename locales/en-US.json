@@ -4,5 +4,6 @@
     "cancelButton": "Cancel",
     "welcomeText": "Please select an option from the buttons above.",
     "test2025": "whoa new changes need locale-ing",
-    "test0122-2": "oops forgot a comma"
+    "test0122-2": "oops forgot a comma",
+    "test0122-3": "oops needed to add an extra one"
 }
